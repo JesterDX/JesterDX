@@ -4,8 +4,6 @@
 
 <h3 align="center">💻 Desarrollador en formación | JesterDX</h3>
 
-<img src="https://gpvc.arturio.dev/JesterDX" alt="Profile views" align="right"/>
-
 <br>
 
 <p align="center">
