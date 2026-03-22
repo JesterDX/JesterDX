@@ -20,30 +20,28 @@
 
 <hr>
 
-<h2>👨‍💻 Sobre mí</h2>
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 <div align="center">
 <table>
 <tr>
-<td>
+<td width="50%" align="left">
 
-<pre>
-JesterDX@github
--------------------------
-🎓 Estudiante de Ingeniería de Sistemas
-💻 Enfocado en desarrollo backend y lógica
-🧠 Resolución de problemas y reglas de negocio
-🌐 Desarrollo web con React
-🗄️ SQL Server, MySQL y PostgreSQL
-🔐 Validaciones y estructuras
-🌐 Redes (IP, subnetting, Cisco)
-🚀 Aprendiendo constantemente
-</pre>
+<ul>
+  <li>🎓 Estudiante de Ingeniería de Sistemas</li>
+  <li>💻 Enfocado en desarrollo backend y lógica</li>
+  <li>🧠 Resolución de problemas y reglas de negocio</li>
+  <li>🌐 Desarrollo web con React</li>
+  <li>🗄️ SQL Server, MySQL y PostgreSQL</li>
+  <li>🔐 Validación de datos y estructuras</li>
+  <li>🌐 Redes (IP, subnetting, Cisco)</li>
+  <li>🚀 Aprendiendo constantemente</li>
+</ul>
 
 </td>
 
-<td>
-<img src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif" width="220">
+<td width="50%" align="center">
+<img src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif" width="230">
 </td>
 </tr>
 </table>
@@ -106,10 +104,10 @@ JesterDX@github
 <h2>📫 Contacto</h2>
 
 <p align="center">
-  <a href="mailto:tu_correo@gmail.com">
+  <a href="mailto:galvezascoy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/césar-agusto-galvez-ascoy-7a6a26292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
