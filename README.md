@@ -7,7 +7,7 @@
 <!-- GIF principal -->
 
 <p align="center">
-  <img src="https://preview.redd.it/lqaoectxop4f1.gif?width=1604&format=mp4&s=5156a57a2e8788a9319c4ba7b47c81a39c009026" width="600">
+  <img src="https://media.tenor.com/GKrVFdc40DEAAAAM/pusheen-cat-capybara.gif" width="250">
 </p>
 
 <br>
@@ -22,6 +22,11 @@
 
 <h2>👨‍💻 Sobre mí</h2>
 
+<div align="center">
+<table>
+<tr>
+<td>
+
 <pre>
 JesterDX@github
 -------------------------
@@ -29,30 +34,47 @@ JesterDX@github
 💻 Enfocado en desarrollo backend y lógica
 🧠 Resolución de problemas y reglas de negocio
 🌐 Desarrollo web con React
-🗄️ Manejo de bases de datos (SQL Server y MySQL)
-🔐 Validación de datos y estructuras
-🌐 Conocimientos en redes (IP y subnetting)
+🗄️ SQL Server, MySQL y PostgreSQL
+🔐 Validaciones y estructuras
+🌐 Redes (IP, subnetting, Cisco)
 🚀 Aprendiendo constantemente
 </pre>
+
+</td>
+
+<td>
+<img src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif" width="220">
+</td>
+</tr>
+</table>
+</div>
 
 <hr>
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 
 <h3>👨‍💻 Lenguajes</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white">
 </p>
 
 <h3>🧰 Tecnologías</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+<h3>🌐 Redes y herramientas</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking-IP%20%26%20Subnetting-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
@@ -81,27 +103,25 @@ JesterDX@github
 
 <hr>
 
-<h2>🎨 Extras</h2>
-
-<p align="center">
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-</p>
-
-<p align="center">
-  <img src="https://pbs.twimg.com/media/FFXbKXdXsAYj9EF.jpg" width="250">
-</p>
-
-<hr>
-
 <h2>📫 Contacto</h2>
 
-<p>
+<p align="center">
   <a href="mailto:tu_correo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+</p>
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/FFXbKXdXsAYj9EF.jpg" width="200">
 </p>
 
 <hr>
