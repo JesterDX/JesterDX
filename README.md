@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/JesterDX">
+  <a href="README_EN.md">
     <img src="https://img.shields.io/badge/🌐%20English-0077B5?style=for-the-badge">
   </a>
 </p>
