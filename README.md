@@ -10,11 +10,15 @@
 
 <h3 align="center">💻 Desarrollador en formación | JesterDX</h3>
 
+<!-- GIF principal -->
+
 <p align="center">
   <img src="https://media.tenor.com/GKrVFdc40DEAAAAM/pusheen-cat-capybara.gif" width="250">
 </p>
 
 <br>
+
+<!-- Typing effect -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+Backend;Java+%7C+JavaScript+%7C+SQL;Apasionado+por+la+lógica;Siempre+aprendiendo&center=true&width=500&height=45">
@@ -79,4 +83,60 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Networking-IP%20%26%20Subnetting-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+<hr>
+
+<h2>📊 Estadísticas de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesterDX&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesterDX&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesterDX&theme=tokyonight" />
+</p>
+
+<hr>
+
+<h2>📌 Proyectos</h2>
+
+<ul>
+  <li>🏨 Sistema de reservas con validación de fechas</li>
+  <li>🌐 Aplicación web en React (slider, formulario, footer)</li>
+  <li>🧠 Desarrollo de lógica en Java con POO</li>
+</ul>
+
+<hr>
+
+<h2>📫 Contacto</h2>
+
+<p align="center">
+  <a href="mailto:galvezascoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/césar-agusto-galvez-ascoy-7a6a26292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<hr>
+
+<!-- GIFS finales -->
+
+<p align="center">
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+</p>
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/FFXbKXdXsAYj9EF.jpg" width="200">
+</p>
+
+<hr>
+
+<!-- Snake -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
