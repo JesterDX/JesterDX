@@ -4,12 +4,13 @@
 
 <h3 align="center">💻 Desarrollador en formación | JesterDX</h3>
 
-<br>
+<!-- GIF principal -->
 
 <p align="center">
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-  <img height="60" src="https://camo.githubusercontent.com/e3b48c6d1971b02383d82aef0b7ad203af48600ad7ca452984681f9094066cef/68747470733a2f2f632e74656e6f722e636f6d2f79324a586b593170586b7741414141642f74656e6f722e676966">
+  <img src="https://preview.redd.it/lqaoectxop4f1.gif?width=1604&format=mp4&s=5156a57a2e8788a9319c4ba7b47c81a39c009026" width="600">
 </p>
+
+<br>
 
 <!-- Typing effect -->
 
@@ -77,6 +78,18 @@ JesterDX@github
   <li>🌐 Aplicación web en React (slider, formulario, footer)</li>
   <li>🧠 Desarrollo de lógica en Java con POO</li>
 </ul>
+
+<hr>
+
+<h2>🎨 Extras</h2>
+
+<p align="center">
+  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+</p>
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/FFXbKXdXsAYj9EF.jpg" width="250">
+</p>
 
 <hr>
 
